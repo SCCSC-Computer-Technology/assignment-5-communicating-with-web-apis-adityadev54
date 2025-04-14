@@ -1,0 +1,45 @@
+# .NET and ASP.NET Core
+bin/
+obj/
+*.csproj.user
+*.sln.iml
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.pdb
+*.vs/
+*.vscode/
+*.db
+*.db-shm
+*.db-wal
+
+# Local environment files
+.env
+appsettings.Development.json
+
+# Dependency directories
+node_modules/
+wwwroot/lib/
+
+# Logs and temporary files
+*.log
+*.tmp
+temp/
+Temporary ASP.NET Files/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Database files
+*.mdf
+*.ldf
+
+# Ignore user-specific IDE settings
+*.idea/
+*.code-workspace
+
+# Ignore compiled output
+*.dll
+*.exe
