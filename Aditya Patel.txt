@@ -1,0 +1,12 @@
+Once I downloaded the zip folder, I was only able to see the program that I am able to run which was the "Food.sln". I did check
+the "FoodWebApp" and "FoodAPI" folders and none of them have the file name .sln that let me know that I am able to open the program
+and test/run it. However, once I tried to run the "Food.sln" program, it this assignment showed me a Microsoft Visual Studio message
+saying, "There were build errors. Would you like to continue and run the last successful build?" and that's when I had to cut the
+testing portion short because I didn't want my computer to be affect. After trying to run the program, I did notice a yellow triangle
+caution(s) within the Dependencies then going to Frameworks dropdown and show both the Microsoft.AspNetCore.App and Microsoft.NETCore.App
+has yellow triangle cautions.
+
+This assignment is somewhat complete because the coding is there but is missing some pieces like API, database, and possible layout
+of how the website is going to look like. However, I do see the Index of how it would look like once it ran along with Details.cshtml
+and Privacy.cshtml. The program still needs work (unless I am missing something else to download) and it looks like it's making 
+progress.
